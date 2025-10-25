@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "git": "^0.1.5"
-  }
+  "name": "our-community-connects",
+  "version": "1.0.0",
+  "description": "Landing page for Our Community Connects - A community management app",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build step required'",
+    "start": "echo 'Static site - serve with any static server'"
+  },
+  "keywords": ["community", "app", "landing-page"],
+  "author": "Justin Diamond",
+  "license": "MIT"
 }

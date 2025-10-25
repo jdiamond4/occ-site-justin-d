@@ -738,6 +738,66 @@ body {
     }
 }
 
+/* About Creator Page */
+.about-creator {
+    background: #ffffff;
+    padding: 120px 0 80px;
+    min-height: 100vh;
+}
+
+.about-creator-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.about-creator h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #01248b;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.about-creator h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.about-creator-content {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.about-creator-content p {
+    font-size: 1.1rem;
+    color: #575050;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.linkedin-link {
+    margin-top: 40px;
+}
+
+.linkedin-link a {
+    color: #01248b;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+.linkedin-link a:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
+}
+
 /* Smooth scrolling */
 html {
     scroll-behavior: smooth;
